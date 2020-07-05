@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/</loc>
+    <lastmod>2020-06-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/dataset-1fragrance/</loc>
+    <lastmod>2020-06-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-4fragrance-dataset_analysis/</loc>
+    <lastmod>2020-06-12T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-s4nn-visualiser-web-app/</loc>
+    <lastmod>2020-06-05T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-s3visualisation-streamlit/</loc>
+    <lastmod>2020-05-28T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-s2visualisation-seaborn-plotly/</loc>
+    <lastmod>2020-05-26T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-s1development-tf-serving-flask/</loc>
+    <lastmod>2020-05-23T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-3hotel-cancellation/</loc>
+    <lastmod>2020-05-20T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-isp/</loc>
+    <lastmod>2020-05-06T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-2sentiment-analysis/</loc>
+    <lastmod>2020-04-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/project-1fake-news/</loc>
+    <lastmod>2020-04-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Loyloyy.github.io/Portfolio_Website/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

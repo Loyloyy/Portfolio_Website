@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Aloysius Tan</title>
+    <link>https://Loyloyy.github.io/Portfolio_Website/</link>
+    <description>Recent content in Data Science Portfolio on Aloysius Tan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://Loyloyy.github.io/Portfolio_Website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dataset: Web Scraping Perfume Data</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/dataset-1fragrance/</link>
+      <pubDate>Fri, 12 Jun 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/dataset-1fragrance/</guid>
+      <description>“Take, take, take it all, but you never give” – Grenade by Bruno Mars 💣💣
+As a budding Data Scientist, I decided to challenge myself by creating my very own dataset and give back to the Data Science community! As one of my hobbies include perfumery, I chose to create this dataset to explore why some perfumes are better perceived compared to similar perfumes.
+If you will like to have a set of this dataset, feel free to reach out to me at atan091@e.</description>
+    </item>
+    
+    <item>
+      <title>Product Recommendation System for Perfumes (Ongoing Project)</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-4fragrance-dataset_analysis/</link>
+      <pubDate>Fri, 12 Jun 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-4fragrance-dataset_analysis/</guid>
+      <description>As a perfumery enthusiast, I embarked on my very first end-to-end project, which includes creating my very own dataset by web scraping, data cleaning, data analysis, feature selection, algorithm comparison. Then, a neural network will be developed to further increase the accuracy followed by deployment of a recommendation system to recommend similar perfumes based on the perfume the user has input well.
+   Summary:  Work in Progress (Data Pre-processing and popularity prediction)!</description>
+    </item>
+    
+    <item>
+      <title>Neural Network Visualisation using with Flask</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-s4nn-visualiser-web-app/</link>
+      <pubDate>Fri, 05 Jun 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-s4nn-visualiser-web-app/</guid>
+      <description>One thing that many individuals from non-technical backgrounds struggle with is understanding how machine learning works, especially neural networks. To them, it may simply come off as rocket science, or in most cases, just having a blank mind 😭. Therefore, I decided to create a web application to help users visualise how a neural network works at its foundation, without the mathematical and formulae wizardry.
+ Do note that this is still a work in progress as well where the visualisation aspect has been done but I am currently trying to allow the user to write the own numbers as well.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualisation using Streamlit</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-s3visualisation-streamlit/</link>
+      <pubDate>Thu, 28 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-s3visualisation-streamlit/</guid>
+      <description>In my pursuit to widen my knowledge, I came across this particular video which I found very interesting as it showcased Streamlit.
+Streamlit allows users to create beautiful web visualisations without any prior knowledge of web programming languages! Best of all, saving the script on a local computer will update the page in real-time as well! Other features include having interactive visualisation tools similar to Plotly.
+This will come in as a very handy tool especially since most of us are working from home.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualisation using Seaborn and Plotly</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-s2visualisation-seaborn-plotly/</link>
+      <pubDate>Tue, 26 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-s2visualisation-seaborn-plotly/</guid>
+      <description>As a Data Scientist spends more than half of his time on data, visualisation is extremely important to cater to our humanistic need for visuals. While browsing kernels on Kaggle, the Plotly library caught my attention. Besides its visual functionalities, it features the ability to interact with the plots as well, which can prove to be very useful when deployed as a web application! Unfortunately, a live notebook is needed to showcase the work here.</description>
+    </item>
+    
+    <item>
+      <title>Deploying model with Tensorflow Serving and Flask</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-s1development-tf-serving-flask/</link>
+      <pubDate>Sat, 23 May 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-s1development-tf-serving-flask/</guid>
+      <description>It is one thing to learn about machine learning and the different algorithms in the market, and another to deploy them due to its complex nature. However, in the recent years, deployment of models is easier than ever.
+Hence, I figured that it was time for me to learn how to deploy a model. This was a mini side project I embarked on to learn how to leverage Tensorflow Serving and my Flask knowledge to deploy a model online.</description>
+    </item>
+    
+    <item>
+      <title>Hotel Guest Churn Prediction and Cancellation Predictions</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-3hotel-cancellation/</link>
+      <pubDate>Wed, 20 May 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-3hotel-cancellation/</guid>
+      <description>With the prevalent use of data to gain insights on almost everything, I chanced upon this Hotel dataset on Kaggle that I could potentially leverage on as a project. It opened the door to finding insights on many facets of churn prediction and hotel cancellation, including guest behaviours, and the types of guests who are most likely to cancel.
+To maximise my time at home during the Circuit Breaker period in Singapore, my goal for this project was to widen my knowledge on data engineering and wrangle with messy and dirty data.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Sponsored Project with Rolls Royce</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-isp/</link>
+      <pubDate>Wed, 06 May 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-isp/</guid>
+      <description>As the world moves toward sustainability and renewable energy production increase, the demand for battery has increased as well. However, the lithium-ion battery is still not well utilised. Therefore, extensive battery testing is conducted but such methods impose a high cost. Therefore, the aim of my industrial sponsored project was to use machine learning as a supplement to battery testing to better predict how the State-of-Health drops depending on the other parameters extracted during testing.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with Airline Tweets</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-2sentiment-analysis/</link>
+      <pubDate>Thu, 30 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-2sentiment-analysis/</guid>
+      <description>As the pace of A.I. advances at a increasing rate, one thing that we constantly wonder is if or when will A.I. gain the ability to acknowledge feelings. With the surge in research papers and people stepping into the field of natural language processing, we are definitely closer to that reality.
+My goal for this project was to maximise the time at home during my country&amp;rsquo;s lockdown (circuit breaker) by widening my knowledge on Natural Language Processing (NLP) using NLTK and further increasing the accuracy using Tensorflow.</description>
+    </item>
+    
+    <item>
+      <title>Fake News Filter</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/post/project-1fake-news/</link>
+      <pubDate>Wed, 15 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/post/project-1fake-news/</guid>
+      <description>In recent years, there has been an upsurge in fake news content due to multiple reasons. Some people do it to fulfil their sensational nature but at the same time, some fake news are also created for research purposes. Whichever the purpose is, fake news has become a nuisance in society today, leading people to spread falsified information.
+My goal for this project was to maximise the time at home during my country&amp;rsquo;s lockdown (circuit breaker) by widening my knowledge on ML classification.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Loyloyy.github.io/Portfolio_Website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Loyloyy.github.io/Portfolio_Website/contact/</guid>
+      <description>Follow me on these social media platforms!
+   Platform URL     LinkedIn: https://linkedin.com/in/aloysiustan-chongkai   GitHub: https://github.com/Loyloyy     Or find out more about my Space club in Nanyang Technological University!
+My team and I formed a Space Committee in NTU , alongside SEDS-NUS to create a platform for students to get together and embark on Space projects, allowing them to pick up relevant skills to enter Space companies here in Singapore.</description>
+    </item>
+    
+  </channel>
+</rss>
